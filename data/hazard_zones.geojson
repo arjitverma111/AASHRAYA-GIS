@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HZ_LS_001",
+        "name": "Meppadi-Chooralmala Escarpment Red Zone",
+        "hazard_type": "LANDSLIDE",
+        "severity": "CRITICAL",
+        "risk_band": "RED",
+        "risk_score": 92.5,
+        "trigger_condition": "Slope > 34° + 24h Rain > 120mm + Debris Flow Scarp",
+        "color": "#ef4444",
+        "fill_opacity": 0.45,
+        "affected_panchayats": ["Meppadi"],
+        "historical_events_count": 6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.155, 11.545],
+            [76.185, 11.548],
+            [76.210, 11.530],
+            [76.205, 11.512],
+            [76.175, 11.510],
+            [76.150, 11.525],
+            [76.155, 11.545]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HZ_LS_002",
+        "name": "Mundakkai-Puthumala Slope Instability Corridor",
+        "hazard_type": "LANDSLIDE",
+        "severity": "CRITICAL",
+        "risk_band": "RED",
+        "risk_score": 95.0,
+        "trigger_condition": "High TWI + Extreme Slope Angle (37°) + Weathered Regolith",
+        "color": "#dc2626",
+        "fill_opacity": 0.5,
+        "affected_panchayats": ["Meppadi"],
+        "historical_events_count": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.130, 11.555],
+            [76.160, 11.552],
+            [76.180, 11.528],
+            [76.150, 11.515],
+            [76.125, 11.535],
+            [76.130, 11.555]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HZ_FL_001",
+        "name": "Kabini-Panamaram Inundation Basin",
+        "hazard_type": "FLOOD",
+        "severity": "HIGH",
+        "risk_band": "ORANGE",
+        "risk_score": 78.4,
+        "trigger_condition": "HAND < 2.0m + Riverine Discharge Spikes + Low Drainage Incline",
+        "color": "#3b82f6",
+        "fill_opacity": 0.4,
+        "affected_panchayats": ["Panamaram", "Kottathara"],
+        "historical_events_count": 5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.050, 11.750],
+            [76.090, 11.745],
+            [76.110, 11.710],
+            [76.085, 11.665],
+            [76.055, 11.685],
+            [76.035, 11.725],
+            [76.050, 11.750]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HZ_FL_002",
+        "name": "Noolpuzha Flash Flood Zone",
+        "hazard_type": "FLOOD",
+        "severity": "HIGH",
+        "risk_band": "ORANGE",
+        "risk_score": 72.0,
+        "trigger_condition": "HAND < 2.5m + River Confluence Runoff Accumulation",
+        "color": "#2563eb",
+        "fill_opacity": 0.35,
+        "affected_panchayats": ["Noolpuzha", "Sulthan Bathery"],
+        "historical_events_count": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.295, 11.675],
+            [76.340, 11.680],
+            [76.350, 11.645],
+            [76.310, 11.640],
+            [76.285, 11.660],
+            [76.295, 11.675]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HZ_MH_001",
+        "name": "Thirunelly Northern Ridge Multi-Hazard Watch",
+        "hazard_type": "MULTI_HAZARD_RED_ZONE",
+        "severity": "HIGH",
+        "risk_band": "ORANGE",
+        "risk_score": 75.8,
+        "trigger_condition": "Steep Valley Slopes + Stream Surges + Isolation Risk",
+        "color": "#f97316",
+        "fill_opacity": 0.4,
+        "affected_panchayats": ["Thirunelly"],
+        "historical_events_count": 3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [75.960, 11.935],
+            [76.010, 11.930],
+            [76.015, 11.890],
+            [75.975, 11.885],
+            [75.950, 11.910],
+            [75.960, 11.935]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HZ_CB_001",
+        "name": "Vythiri Gap Cloudburst Runoff Funnel",
+        "hazard_type": "CLOUDBURST_RUNOFF",
+        "severity": "CRITICAL",
+        "risk_band": "RED",
+        "risk_score": 86.2,
+        "trigger_condition": "Orographic Funneling + Intense Precipitation Cell (>50mm/hr)",
+        "color": "#a855f7",
+        "fill_opacity": 0.4,
+        "affected_panchayats": ["Vythiri", "Pozhuthana"],
+        "historical_events_count": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.010, 11.615],
+            [76.055, 11.605],
+            [76.060, 11.540],
+            [76.020, 11.535],
+            [75.995, 11.575],
+            [76.010, 11.615]
+          ]
+        ]
+      }
+    }
+  ]
+}

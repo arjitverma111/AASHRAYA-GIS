@@ -1,0 +1,50 @@
+[
+  {
+    "id": "DIS_2024_01",
+    "year": 2024,
+    "month": "July",
+    "event_type": "Catastrophic Debris Flow & Landslide",
+    "affected_villages": ["Chooralmala", "Mundakkai", "Attamala", "Vellarmala"],
+    "rainfall_24h_mm": 572.0,
+    "fatalities": 350,
+    "displaced_population": 4200,
+    "source_agency": "Geological Survey of India (GSI) & KSDMA Report",
+    "intensity_scale": "VERY_SEVERE"
+  },
+  {
+    "id": "DIS_2019_01",
+    "year": 2019,
+    "month": "August",
+    "event_type": "Major Slope Failure & Landslide",
+    "affected_villages": ["Puthumala", "Meppadi"],
+    "rainfall_24h_mm": 410.0,
+    "fatalities": 17,
+    "displaced_population": 1850,
+    "source_agency": "State Emergency Operations Centre (SEOC) Kerala",
+    "intensity_scale": "SEVERE"
+  },
+  {
+    "id": "DIS_2018_01",
+    "year": 2018,
+    "month": "August",
+    "event_type": "Widespread Riverine Inundation & Multi-Slope Slips",
+    "affected_villages": ["Panamaram Basin", "Noolpuzha Riverine", "Kottathara Wetlands", "Mananthavady Riverbanks"],
+    "rainfall_24h_mm": 398.0,
+    "fatalities": 22,
+    "displaced_population": 8900,
+    "source_agency": "Central Water Commission (CWC) & NDMA",
+    "intensity_scale": "VERY_SEVERE"
+  },
+  {
+    "id": "DIS_2020_01",
+    "year": 2020,
+    "month": "August",
+    "event_type": "Flash Flood & Minor Landslides",
+    "affected_villages": ["Pozhuthana Valley", "Vythiri Gap", "Padinjarathara Dam Basin"],
+    "rainfall_24h_mm": 280.0,
+    "fatalities": 4,
+    "displaced_population": 1200,
+    "source_agency": "District Disaster Management Authority (DDMA) Wayanad",
+    "intensity_scale": "MODERATE"
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "id": "VIL_001",
+    "name": "Chooralmala",
+    "panchayat": "Meppadi",
+    "tehsil": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.5342,
+    "longitude": 76.1738,
+    "population": 2850,
+    "households": 640,
+    "demographics": {
+      "elderly_pct": 0.14,
+      "children_pct": 0.18,
+      "disabled_pct": 0.035,
+      "kutcha_housing_pct": 0.42,
+      "poverty_bpl_pct": 0.38,
+      "livelihood_farming_pct": 0.76
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 14.5,
+      "all_weather_road": 3.2,
+      "police_fire_station": 12.0
+    },
+    "historical_disasters_10y": 4,
+    "terrain": {
+      "elevation_m": 880,
+      "slope_deg": 34.5,
+      "aspect_deg": 215,
+      "hand_m": 4.2,
+      "twi": 8.1,
+      "land_cover": "Tea Plantation / Sloped Shrub",
+      "distance_to_river_m": 120,
+      "distance_to_road_cut_m": 45
+    },
+    "baseline_rainfall_24h_mm": 135.0,
+    "current_rainfall_24h_mm": 135.0,
+    "data_vintage": "Census 2011 + IMD 2024 Replay",
+    "confidence": 0.92
+  },
+  {
+    "id": "VIL_002",
+    "name": "Mundakkai",
+    "panchayat": "Meppadi",
+    "tehsil": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.5280,
+    "longitude": 76.1950,
+    "population": 2100,
+    "households": 480,
+    "demographics": {
+      "elderly_pct": 0.16,
+      "children_pct": 0.17,
+      "disabled_pct": 0.040,
+      "kutcha_housing_pct": 0.48,
+      "poverty_bpl_pct": 0.44,
+      "livelihood_farming_pct": 0.82
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 16.8,
+      "all_weather_road": 4.5,
+      "police_fire_station": 15.2
+    },
+    "historical_disasters_10y": 5,
+    "terrain": {
+      "elevation_m": 940,
+      "slope_deg": 37.8,
+      "aspect_deg": 230,
+      "hand_m": 3.1,
+      "twi": 9.4,
+      "land_cover": "Cardamom / Escarpment",
+      "distance_to_river_m": 85,
+      "distance_to_road_cut_m": 25
+    },
+    "baseline_rainfall_24h_mm": 145.0,
+    "current_rainfall_24h_mm": 145.0,
+    "data_vintage": "Census 2011 + IMD 2024 Replay",
+    "confidence": 0.94
+  },
+  {
+    "id": "VIL_003",
+    "name": "Attamala",
+    "panchayat": "Meppadi",
+    "tehsil": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.5160,
+    "longitude": 76.1680,
+    "population": 1420,
+    "households": 315,
+    "demographics": {
+      "elderly_pct": 0.13,
+      "children_pct": 0.19,
+      "disabled_pct": 0.028,
+      "kutcha_housing_pct": 0.39,
+      "poverty_bpl_pct": 0.35,
+      "livelihood_farming_pct": 0.70
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 13.0,
+      "all_weather_road": 2.8,
+      "police_fire_station": 11.5
+    },
+    "historical_disasters_10y": 3,
+    "terrain": {
+      "elevation_m": 860,
+      "slope_deg": 32.0,
+      "aspect_deg": 195,
+      "hand_m": 6.5,
+      "twi": 7.6,
+      "land_cover": "Mixed Plantation",
+      "distance_to_river_m": 250,
+      "distance_to_road_cut_m": 60
+    },
+    "baseline_rainfall_24h_mm": 115.0,
+    "current_rainfall_24h_mm": 115.0,
+    "data_vintage": "Census 2011 + IMD 2024 Replay",
+    "confidence": 0.89
+  },
+  {
+    "id": "VIL_004",
+    "name": "Puthumala",
+    "panchayat": "Meppadi",
+    "tehsil": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.5450,
+    "longitude": 76.1420,
+    "population": 1950,
+    "households": 420,
+    "demographics": {
+      "elderly_pct": 0.15,
+      "children_pct": 0.16,
+      "disabled_pct": 0.038,
+      "kutcha_housing_pct": 0.45,
+      "poverty_bpl_pct": 0.41,
+      "livelihood_farming_pct": 0.74
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 12.2,
+      "all_weather_road": 2.1,
+      "police_fire_station": 10.0
+    },
+    "historical_disasters_10y": 5,
+    "terrain": {
+      "elevation_m": 920,
+      "slope_deg": 36.2,
+      "aspect_deg": 210,
+      "hand_m": 5.0,
+      "twi": 8.8,
+      "land_cover": "Sloped Tea Estate",
+      "distance_to_river_m": 160,
+      "distance_to_road_cut_m": 35
+    },
+    "baseline_rainfall_24h_mm": 130.0,
+    "current_rainfall_24h_mm": 130.0,
+    "data_vintage": "Census 2011 + IMD 2024 Replay",
+    "confidence": 0.93
+  },
+  {
+    "id": "VIL_005",
+    "name": "Vellarmala",
+    "panchayat": "Meppadi",
+    "tehsil": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.5210,
+    "longitude": 76.1840,
+    "population": 1680,
+    "households": 370,
+    "demographics": {
+      "elderly_pct": 0.15,
+      "children_pct": 0.19,
+      "disabled_pct": 0.042,
+      "kutcha_housing_pct": 0.46,
+      "poverty_bpl_pct": 0.43,
+      "livelihood_farming_pct": 0.78
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 15.5,
+      "all_weather_road": 3.8,
+      "police_fire_station": 13.9
+    },
+    "historical_disasters_10y": 4,
+    "terrain": {
+      "elevation_m": 910,
+      "slope_deg": 35.1,
+      "aspect_deg": 220,
+      "hand_m": 3.8,
+      "twi": 8.5,
+      "land_cover": "Forest Margin / Tea",
+      "distance_to_river_m": 110,
+      "distance_to_road_cut_m": 40
+    },
+    "baseline_rainfall_24h_mm": 140.0,
+    "current_rainfall_24h_mm": 140.0,
+    "data_vintage": "Census 2011 + IMD 2024 Replay",
+    "confidence": 0.91
+  },
+  {
+    "id": "VIL_006",
+    "name": "Noolpuzha Riverine",
+    "panchayat": "Noolpuzha",
+    "tehsil": "Sulthan Bathery",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.6620,
+    "longitude": 76.3200,
+    "population": 3100,
+    "households": 690,
+    "demographics": {
+      "elderly_pct": 0.11,
+      "children_pct": 0.20,
+      "disabled_pct": 0.024,
+      "kutcha_housing_pct": 0.36,
+      "poverty_bpl_pct": 0.32,
+      "livelihood_farming_pct": 0.65
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 8.5,
+      "all_weather_road": 1.2,
+      "police_fire_station": 7.8
+    },
+    "historical_disasters_10y": 3,
+    "terrain": {
+      "elevation_m": 720,
+      "slope_deg": 6.2,
+      "aspect_deg": 95,
+      "hand_m": 1.4,
+      "twi": 11.8,
+      "land_cover": "Paddy / River Basin",
+      "distance_to_river_m": 45,
+      "distance_to_road_cut_m": 150
+    },
+    "baseline_rainfall_24h_mm": 110.0,
+    "current_rainfall_24h_mm": 110.0,
+    "data_vintage": "Census 2011 + CWC Flood Map",
+    "confidence": 0.90
+  },
+  {
+    "id": "VIL_007",
+    "name": "Panamaram Basin",
+    "panchayat": "Panamaram",
+    "tehsil": "Mananthavady",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.7340,
+    "longitude": 76.0680,
+    "population": 3600,
+    "households": 790,
+    "demographics": {
+      "elderly_pct": 0.12,
+      "children_pct": 0.18,
+      "disabled_pct": 0.022,
+      "kutcha_housing_pct": 0.31,
+      "poverty_bpl_pct": 0.28,
+      "livelihood_farming_pct": 0.58
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 4.2,
+      "all_weather_road": 0.8,
+      "police_fire_station": 5.0
+    },
+    "historical_disasters_10y": 3,
+    "terrain": {
+      "elevation_m": 710,
+      "slope_deg": 4.5,
+      "aspect_deg": 120,
+      "hand_m": 1.1,
+      "twi": 12.6,
+      "land_cover": "River Alluvium / Settlement",
+      "distance_to_river_m": 35,
+      "distance_to_road_cut_m": 200
+    },
+    "baseline_rainfall_24h_mm": 95.0,
+    "current_rainfall_24h_mm": 95.0,
+    "data_vintage": "Census 2011 + CWC Telemetry",
+    "confidence": 0.92
+  },
+  {
+    "id": "VIL_008",
+    "name": "Pozhuthana Valley",
+    "panchayat": "Pozhuthana",
+    "tehsil": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.5950,
+    "longitude": 76.0220,
+    "population": 2400,
+    "households": 530,
+    "demographics": {
+      "elderly_pct": 0.13,
+      "children_pct": 0.17,
+      "disabled_pct": 0.030,
+      "kutcha_housing_pct": 0.38,
+      "poverty_bpl_pct": 0.34,
+      "livelihood_farming_pct": 0.68
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 9.0,
+      "all_weather_road": 1.8,
+      "police_fire_station": 8.5
+    },
+    "historical_disasters_10y": 3,
+    "terrain": {
+      "elevation_m": 780,
+      "slope_deg": 22.4,
+      "aspect_deg": 240,
+      "hand_m": 2.8,
+      "twi": 9.8,
+      "land_cover": "Sloped Plantation / Stream Bank",
+      "distance_to_river_m": 90,
+      "distance_to_road_cut_m": 50
+    },
+    "baseline_rainfall_24h_mm": 125.0,
+    "current_rainfall_24h_mm": 125.0,
+    "data_vintage": "Census 2011 + IMD Replay",
+    "confidence": 0.88
+  },
+  {
+    "id": "VIL_009",
+    "name": "Thirunelly Forest Edge",
+    "panchayat": "Thirunelly",
+    "tehsil": "Mananthavady",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.9050,
+    "longitude": 75.9890,
+    "population": 1850,
+    "households": 410,
+    "demographics": {
+      "elderly_pct": 0.17,
+      "children_pct": 0.21,
+      "disabled_pct": 0.045,
+      "kutcha_housing_pct": 0.54,
+      "poverty_bpl_pct": 0.52,
+      "livelihood_farming_pct": 0.85
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 19.2,
+      "all_weather_road": 5.4,
+      "police_fire_station": 18.0
+    },
+    "historical_disasters_10y": 2,
+    "terrain": {
+      "elevation_m": 890,
+      "slope_deg": 26.5,
+      "aspect_deg": 180,
+      "hand_m": 5.4,
+      "twi": 8.0,
+      "land_cover": "Tribal Hamlet / Forest Margin",
+      "distance_to_river_m": 210,
+      "distance_to_road_cut_m": 70
+    },
+    "baseline_rainfall_24h_mm": 105.0,
+    "current_rainfall_24h_mm": 105.0,
+    "data_vintage": "Census 2011 + ITDP Data",
+    "confidence": 0.87
+  },
+  {
+    "id": "VIL_010",
+    "name": "Kottathara Wetlands",
+    "panchayat": "Kottathara",
+    "tehsil": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.6780,
+    "longitude": 76.0820,
+    "population": 2750,
+    "households": 610,
+    "demographics": {
+      "elderly_pct": 0.12,
+      "children_pct": 0.17,
+      "disabled_pct": 0.021,
+      "kutcha_housing_pct": 0.28,
+      "poverty_bpl_pct": 0.26,
+      "livelihood_farming_pct": 0.55
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 6.2,
+      "all_weather_road": 0.9,
+      "police_fire_station": 5.8
+    },
+    "historical_disasters_10y": 2,
+    "terrain": {
+      "elevation_m": 715,
+      "slope_deg": 5.1,
+      "aspect_deg": 110,
+      "hand_m": 1.6,
+      "twi": 11.2,
+      "land_cover": "Paddy / Agricultural",
+      "distance_to_river_m": 80,
+      "distance_to_road_cut_m": 180
+    },
+    "baseline_rainfall_24h_mm": 85.0,
+    "current_rainfall_24h_mm": 85.0,
+    "data_vintage": "Census 2011 + CWC Station",
+    "confidence": 0.91
+  },
+  {
+    "id": "VIL_011",
+    "name": "Padinjarathara Dam Basin",
+    "panchayat": "Padinjarathara",
+    "tehsil": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.6650,
+    "longitude": 75.9550,
+    "population": 3200,
+    "households": 720,
+    "demographics": {
+      "elderly_pct": 0.11,
+      "children_pct": 0.16,
+      "disabled_pct": 0.025,
+      "kutcha_housing_pct": 0.32,
+      "poverty_bpl_pct": 0.30,
+      "livelihood_farming_pct": 0.60
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 8.0,
+      "all_weather_road": 1.1,
+      "police_fire_station": 7.4
+    },
+    "historical_disasters_10y": 3,
+    "terrain": {
+      "elevation_m": 760,
+      "slope_deg": 18.2,
+      "aspect_deg": 270,
+      "hand_m": 3.4,
+      "twi": 10.1,
+      "land_cover": "Reservoir Catchment",
+      "distance_to_river_m": 140,
+      "distance_to_road_cut_m": 80
+    },
+    "baseline_rainfall_24h_mm": 115.0,
+    "current_rainfall_24h_mm": 115.0,
+    "data_vintage": "Census 2011 + WRIS Hydrology",
+    "confidence": 0.90
+  },
+  {
+    "id": "VIL_012",
+    "name": "Muppainad Ridge",
+    "panchayat": "Muppainad",
+    "tehsil": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.5620,
+    "longitude": 76.1950,
+    "population": 2300,
+    "households": 510,
+    "demographics": {
+      "elderly_pct": 0.14,
+      "children_pct": 0.18,
+      "disabled_pct": 0.033,
+      "kutcha_housing_pct": 0.40,
+      "poverty_bpl_pct": 0.36,
+      "livelihood_farming_pct": 0.72
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 11.0,
+      "all_weather_road": 2.4,
+      "police_fire_station": 9.8
+    },
+    "historical_disasters_10y": 3,
+    "terrain": {
+      "elevation_m": 870,
+      "slope_deg": 28.5,
+      "aspect_deg": 210,
+      "hand_m": 7.2,
+      "twi": 7.4,
+      "land_cover": "Sloped Coffee / Pepper",
+      "distance_to_river_m": 320,
+      "distance_to_road_cut_m": 55
+    },
+    "baseline_rainfall_24h_mm": 110.0,
+    "current_rainfall_24h_mm": 110.0,
+    "data_vintage": "Census 2011 + IMD Replay",
+    "confidence": 0.89
+  },
+  {
+    "id": "VIL_013",
+    "name": "Thariode Slope",
+    "panchayat": "Thariode",
+    "tehsil": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.6420,
+    "longitude": 75.9850,
+    "population": 1980,
+    "households": 435,
+    "demographics": {
+      "elderly_pct": 0.13,
+      "children_pct": 0.17,
+      "disabled_pct": 0.029,
+      "kutcha_housing_pct": 0.37,
+      "poverty_bpl_pct": 0.33,
+      "livelihood_farming_pct": 0.69
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 9.5,
+      "all_weather_road": 1.9,
+      "police_fire_station": 8.7
+    },
+    "historical_disasters_10y": 2,
+    "terrain": {
+      "elevation_m": 820,
+      "slope_deg": 25.0,
+      "aspect_deg": 250,
+      "hand_m": 6.8,
+      "twi": 7.9,
+      "land_cover": "Plantation Slope",
+      "distance_to_river_m": 280,
+      "distance_to_road_cut_m": 65
+    },
+    "baseline_rainfall_24h_mm": 100.0,
+    "current_rainfall_24h_mm": 100.0,
+    "data_vintage": "Census 2011 + IMD Replay",
+    "confidence": 0.88
+  },
+  {
+    "id": "VIL_014",
+    "name": "Edavaka Plains",
+    "panchayat": "Edavaka",
+    "tehsil": "Mananthavady",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.8120,
+    "longitude": 76.0120,
+    "population": 4100,
+    "households": 910,
+    "demographics": {
+      "elderly_pct": 0.10,
+      "children_pct": 0.15,
+      "disabled_pct": 0.018,
+      "kutcha_housing_pct": 0.22,
+      "poverty_bpl_pct": 0.20,
+      "livelihood_farming_pct": 0.45
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 3.5,
+      "all_weather_road": 0.4,
+      "police_fire_station": 3.8
+    },
+    "historical_disasters_10y": 1,
+    "terrain": {
+      "elevation_m": 730,
+      "slope_deg": 6.8,
+      "aspect_deg": 140,
+      "hand_m": 8.5,
+      "twi": 6.5,
+      "land_cover": "Mixed Settlement / Orchards",
+      "distance_to_river_m": 450,
+      "distance_to_road_cut_m": 120
+    },
+    "baseline_rainfall_24h_mm": 65.0,
+    "current_rainfall_24h_mm": 65.0,
+    "data_vintage": "Census 2011 + OpenStreetMap",
+    "confidence": 0.93
+  },
+  {
+    "id": "VIL_015",
+    "name": "Poothadi Uplands",
+    "panchayat": "Poothadi",
+    "tehsil": "Sulthan Bathery",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.7250,
+    "longitude": 76.1850,
+    "population": 3800,
+    "households": 840,
+    "demographics": {
+      "elderly_pct": 0.11,
+      "children_pct": 0.16,
+      "disabled_pct": 0.020,
+      "kutcha_housing_pct": 0.24,
+      "poverty_bpl_pct": 0.22,
+      "livelihood_farming_pct": 0.50
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 4.8,
+      "all_weather_road": 0.5,
+      "police_fire_station": 4.2
+    },
+    "historical_disasters_10y": 1,
+    "terrain": {
+      "elevation_m": 750,
+      "slope_deg": 7.5,
+      "aspect_deg": 130,
+      "hand_m": 9.2,
+      "twi": 6.2,
+      "land_cover": "Plateau Farming",
+      "distance_to_river_m": 600,
+      "distance_to_road_cut_m": 150
+    },
+    "baseline_rainfall_24h_mm": 60.0,
+    "current_rainfall_24h_mm": 60.0,
+    "data_vintage": "Census 2011 + OpenStreetMap",
+    "confidence": 0.94
+  },
+  {
+    "id": "VIL_016",
+    "name": "Mullankolly East",
+    "panchayat": "Mullankolly",
+    "tehsil": "Sulthan Bathery",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.8350,
+    "longitude": 76.2420,
+    "population": 2900,
+    "households": 630,
+    "demographics": {
+      "elderly_pct": 0.12,
+      "children_pct": 0.17,
+      "disabled_pct": 0.022,
+      "kutcha_housing_pct": 0.29,
+      "poverty_bpl_pct": 0.27,
+      "livelihood_farming_pct": 0.62
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 7.2,
+      "all_weather_road": 0.7,
+      "police_fire_station": 6.5
+    },
+    "historical_disasters_10y": 1,
+    "terrain": {
+      "elevation_m": 725,
+      "slope_deg": 5.4,
+      "aspect_deg": 160,
+      "hand_m": 4.5,
+      "twi": 8.4,
+      "land_cover": "Kabini Catchment Farmland",
+      "distance_to_river_m": 220,
+      "distance_to_road_cut_m": 180
+    },
+    "baseline_rainfall_24h_mm": 70.0,
+    "current_rainfall_24h_mm": 70.0,
+    "data_vintage": "Census 2011 + WRIS Hydrology",
+    "confidence": 0.91
+  },
+  {
+    "id": "VIL_017",
+    "name": "Nenmeni Plateau",
+    "panchayat": "Nenmeni",
+    "tehsil": "Sulthan Bathery",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.6450,
+    "longitude": 76.2650,
+    "population": 4200,
+    "households": 930,
+    "demographics": {
+      "elderly_pct": 0.09,
+      "children_pct": 0.14,
+      "disabled_pct": 0.016,
+      "kutcha_housing_pct": 0.20,
+      "poverty_bpl_pct": 0.18,
+      "livelihood_farming_pct": 0.42
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 3.0,
+      "all_weather_road": 0.3,
+      "police_fire_station": 3.2
+    },
+    "historical_disasters_10y": 0,
+    "terrain": {
+      "elevation_m": 770,
+      "slope_deg": 4.8,
+      "aspect_deg": 100,
+      "hand_m": 14.0,
+      "twi": 5.2,
+      "land_cover": "Town Fringe / Gentle Slopes",
+      "distance_to_river_m": 850,
+      "distance_to_road_cut_m": 250
+    },
+    "baseline_rainfall_24h_mm": 50.0,
+    "current_rainfall_24h_mm": 50.0,
+    "data_vintage": "Census 2011 + OpenStreetMap",
+    "confidence": 0.95
+  },
+  {
+    "id": "VIL_018",
+    "name": "Ambalavayal Hills",
+    "panchayat": "Ambalavayal",
+    "tehsil": "Sulthan Bathery",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.6150,
+    "longitude": 76.2150,
+    "population": 3400,
+    "households": 760,
+    "demographics": {
+      "elderly_pct": 0.11,
+      "children_pct": 0.16,
+      "disabled_pct": 0.021,
+      "kutcha_housing_pct": 0.25,
+      "poverty_bpl_pct": 0.24,
+      "livelihood_farming_pct": 0.52
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 5.5,
+      "all_weather_road": 0.6,
+      "police_fire_station": 5.1
+    },
+    "historical_disasters_10y": 1,
+    "terrain": {
+      "elevation_m": 790,
+      "slope_deg": 14.2,
+      "aspect_deg": 170,
+      "hand_m": 11.5,
+      "twi": 6.8,
+      "land_cover": "Horticultural Plantations",
+      "distance_to_river_m": 650,
+      "distance_to_road_cut_m": 110
+    },
+    "baseline_rainfall_24h_mm": 75.0,
+    "current_rainfall_24h_mm": 75.0,
+    "data_vintage": "Census 2011 + OpenStreetMap",
+    "confidence": 0.92
+  },
+  {
+    "id": "VIL_019",
+    "name": "Mananthavady Riverbanks",
+    "panchayat": "Mananthavady",
+    "tehsil": "Mananthavady",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.8020,
+    "longitude": 76.0020,
+    "population": 4800,
+    "households": 1050,
+    "demographics": {
+      "elderly_pct": 0.10,
+      "children_pct": 0.15,
+      "disabled_pct": 0.017,
+      "kutcha_housing_pct": 0.21,
+      "poverty_bpl_pct": 0.19,
+      "livelihood_farming_pct": 0.35
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 1.8,
+      "all_weather_road": 0.2,
+      "police_fire_station": 1.5
+    },
+    "historical_disasters_10y": 2,
+    "terrain": {
+      "elevation_m": 718,
+      "slope_deg": 4.1,
+      "aspect_deg": 150,
+      "hand_m": 1.8,
+      "twi": 10.9,
+      "land_cover": "Urban Fringe / Floodplain",
+      "distance_to_river_m": 50,
+      "distance_to_road_cut_m": 300
+    },
+    "baseline_rainfall_24h_mm": 80.0,
+    "current_rainfall_24h_mm": 80.0,
+    "data_vintage": "Census 2011 + CWC Telemetry",
+    "confidence": 0.94
+  },
+  {
+    "id": "VIL_020",
+    "name": "Vythiri Gap",
+    "panchayat": "Vythiri",
+    "tehsil": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.5510,
+    "longitude": 76.0420,
+    "population": 3900,
+    "households": 870,
+    "demographics": {
+      "elderly_pct": 0.12,
+      "children_pct": 0.16,
+      "disabled_pct": 0.023,
+      "kutcha_housing_pct": 0.27,
+      "poverty_bpl_pct": 0.25,
+      "livelihood_farming_pct": 0.48
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 2.5,
+      "all_weather_road": 0.3,
+      "police_fire_station": 2.1
+    },
+    "historical_disasters_10y": 3,
+    "terrain": {
+      "elevation_m": 810,
+      "slope_deg": 24.8,
+      "aspect_deg": 260,
+      "hand_m": 5.2,
+      "twi": 8.9,
+      "land_cover": "Town Mountain Pass",
+      "distance_to_river_m": 180,
+      "distance_to_road_cut_m": 30
+    },
+    "baseline_rainfall_24h_mm": 130.0,
+    "current_rainfall_24h_mm": 130.0,
+    "data_vintage": "Census 2011 + IMD Replay",
+    "confidence": 0.93
+  },
+  {
+    "id": "VIL_021",
+    "name": "Kaniyambetta Terraces",
+    "panchayat": "Kaniyambetta",
+    "tehsil": "Vythiri",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.7010,
+    "longitude": 76.1250,
+    "population": 3500,
+    "households": 780,
+    "demographics": {
+      "elderly_pct": 0.10,
+      "children_pct": 0.15,
+      "disabled_pct": 0.019,
+      "kutcha_housing_pct": 0.23,
+      "poverty_bpl_pct": 0.21,
+      "livelihood_farming_pct": 0.49
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 4.1,
+      "all_weather_road": 0.5,
+      "police_fire_station": 4.0
+    },
+    "historical_disasters_10y": 1,
+    "terrain": {
+      "elevation_m": 745,
+      "slope_deg": 8.1,
+      "aspect_deg": 135,
+      "hand_m": 12.0,
+      "twi": 6.1,
+      "land_cover": "Terraced Farming",
+      "distance_to_river_m": 520,
+      "distance_to_road_cut_m": 140
+    },
+    "baseline_rainfall_24h_mm": 65.0,
+    "current_rainfall_24h_mm": 65.0,
+    "data_vintage": "Census 2011 + OpenStreetMap",
+    "confidence": 0.93
+  },
+  {
+    "id": "VIL_022",
+    "name": "Tirunelli Deep Gorge",
+    "panchayat": "Thirunelly",
+    "tehsil": "Mananthavady",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.9220,
+    "longitude": 75.9750,
+    "population": 1250,
+    "households": 270,
+    "demographics": {
+      "elderly_pct": 0.18,
+      "children_pct": 0.22,
+      "disabled_pct": 0.051,
+      "kutcha_housing_pct": 0.58,
+      "poverty_bpl_pct": 0.56,
+      "livelihood_farming_pct": 0.88
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 22.0,
+      "all_weather_road": 6.8,
+      "police_fire_station": 21.0
+    },
+    "historical_disasters_10y": 3,
+    "terrain": {
+      "elevation_m": 960,
+      "slope_deg": 38.4,
+      "aspect_deg": 225,
+      "hand_m": 3.9,
+      "twi": 9.1,
+      "land_cover": "Dense High-Canopy Escarpment",
+      "distance_to_river_m": 95,
+      "distance_to_road_cut_m": 20
+    },
+    "baseline_rainfall_24h_mm": 135.0,
+    "current_rainfall_24h_mm": 135.0,
+    "data_vintage": "Census 2011 + ITDP",
+    "confidence": 0.89
+  },
+  {
+    "id": "VIL_023",
+    "name": "Vellamunda Basin",
+    "panchayat": "Vellamunda",
+    "tehsil": "Mananthavady",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.7750,
+    "longitude": 75.9350,
+    "population": 2600,
+    "households": 580,
+    "demographics": {
+      "elderly_pct": 0.12,
+      "children_pct": 0.17,
+      "disabled_pct": 0.024,
+      "kutcha_housing_pct": 0.33,
+      "poverty_bpl_pct": 0.31,
+      "livelihood_farming_pct": 0.63
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 7.5,
+      "all_weather_road": 1.0,
+      "police_fire_station": 6.9
+    },
+    "historical_disasters_10y": 2,
+    "terrain": {
+      "elevation_m": 735,
+      "slope_deg": 12.5,
+      "aspect_deg": 280,
+      "hand_m": 3.6,
+      "twi": 9.5,
+      "land_cover": "Foothill Plantation / Stream",
+      "distance_to_river_m": 130,
+      "distance_to_road_cut_m": 85
+    },
+    "baseline_rainfall_24h_mm": 110.0,
+    "current_rainfall_24h_mm": 110.0,
+    "data_vintage": "Census 2011 + OpenStreetMap",
+    "confidence": 0.90
+  },
+  {
+    "id": "VIL_024",
+    "name": "Meenangadi Central",
+    "panchayat": "Meenangadi",
+    "tehsil": "Sulthan Bathery",
+    "district": "Wayanad",
+    "state": "Kerala",
+    "latitude": 11.6620,
+    "longitude": 76.1750,
+    "population": 5100,
+    "households": 1120,
+    "demographics": {
+      "elderly_pct": 0.09,
+      "children_pct": 0.14,
+      "disabled_pct": 0.015,
+      "kutcha_housing_pct": 0.18,
+      "poverty_bpl_pct": 0.16,
+      "livelihood_farming_pct": 0.38
+    },
+    "infrastructure_distances_km": {
+      "nearest_hospital": 2.2,
+      "all_weather_road": 0.1,
+      "police_fire_station": 2.0
+    },
+    "historical_disasters_10y": 0,
+    "terrain": {
+      "elevation_m": 760,
+      "slope_deg": 4.2,
+      "aspect_deg": 115,
+      "hand_m": 16.5,
+      "twi": 5.0,
+      "land_cover": "Semi-Urban Plateau",
+      "distance_to_river_m": 900,
+      "distance_to_road_cut_m": 350
+    },
+    "baseline_rainfall_24h_mm": 55.0,
+    "current_rainfall_24h_mm": 55.0,
+    "data_vintage": "Census 2011 + OpenStreetMap",
+    "confidence": 0.96
+  }
+]
